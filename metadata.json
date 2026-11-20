@@ -1,0 +1,8 @@
+{
+  "name": "Remix Starlight Controller Tester v2",
+  "description": "Test Hercules DJControl Starlight buttons and LEDs on your Android device via OTG with real-time MIDI monitoring.\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
